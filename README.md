@@ -1,1 +1,1 @@
-# GItTeam
+# GitTeam
