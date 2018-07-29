@@ -14,3 +14,7 @@
 	(3)添加协作者写权限：setting→Collaborators→输入协作者→add collaborator<br>
 	(4)pull request:引发讨论，进行代码审核 <br>
 	(5)合并分支，部署 <br>
+5.开源项目贡献流程<br>
+    (1)fork :本质就是在自己的账号下多了一个相同的项目  fork from xxx  ，clone一下代码到本地修改<br>
+	 ![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png) <br>
+	(2)将自己写的代码和开源代码对比，然后pull request  <br>
